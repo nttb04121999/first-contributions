@@ -1,7 +1,7 @@
 ﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
-- [Brad Palmer](https://github.com/Digetal) 
+- [Brad Palmer](https://github.com/Digetal)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -17,7 +17,7 @@
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
-- [Kaustubh Joshi] 
+- [Kaustubh Joshi]
 - [Ryan Marion]
 - [nomope] (https://github.com/nomope)
 - [gholi]
@@ -55,7 +55,7 @@
 - [Nana Yaw Ankomah]
 - [Vincent]
 - [Alin Eremia] (https://github.com/alineremia)
-- [Saksham Saigal]	
+- [Saksham Saigal]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
@@ -1416,6 +1416,7 @@ Conor Shields (https://github.com/cshields236)
 - [fyusuf1](https://github.com/fyusuf1)
 - [Jacob Oldenburg](https://github.com/jfoldenburg)
 - Rajesh Verma
+- [Bao Nguyen](https://github.com/nttb04121999)
 - [Jacquetta Bommuluri](https://github.com/jacquetta)
 - [Justin Kook](https://github.com/justinkook)
 - [Shweta Mahajan](https://github.com/shweta112)
@@ -12720,7 +12721,7 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
